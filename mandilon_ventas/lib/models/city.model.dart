@@ -1,7 +1,7 @@
 import 'store.model.dart';
 
 class City {
-  final String name;
+  String name;
   final List<Store> stores;
   City({required this.name, required this.stores});
 

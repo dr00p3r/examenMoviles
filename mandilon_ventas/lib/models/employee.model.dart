@@ -1,5 +1,5 @@
 class Employee {
-  final String name;
-  final double sales;
+  String name;
+  double sales;
   Employee({required this.name, required this.sales});
 }
